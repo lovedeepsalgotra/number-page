@@ -1,0 +1,198 @@
+.container-fluid{
+    background: #3374ff;
+    width: 100%;
+    
+}
+ .main{
+    background-image: url("/images/mumber-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #3374ff;
+}
+.container .navbar{
+    display: inline-block;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 76px;
+    margin-right: 150px;
+}
+.logo-img{
+    margin-left: 105px;
+    color: #ffffff;
+    font-family: work sans;
+    font-size: 18px;
+}
+.logo-img .blog{
+    margin-left: 20px;
+    font-weight: 400;
+    font-family: work sans;
+    font-size: 18px;
+}
+.logo-img .blogs{
+    font-weight: 400;
+    font-family: work sans;
+    font-size: 18px;
+}
+.logo-img .fa{
+    margin-left: 20px;
+    font-size: 18px;
+    font-family: work sans;
+    font-weight: 400;
+}
+.logo img{
+    width: 136px;
+    height: 25px;
+    margin-right: 116px;
+}
+.logo h4{
+    font-size: 18px;
+    font-family: work sans;
+    font-weight: 400;
+    color: #ffffff;
+}
+.logo .nav-contact .fav{
+    border: 1px solid #1BEEBB;
+    border-radius: 50px;
+    padding: 10px 18px;
+    font-size: 16px;
+    font-family: work sans;
+    font-weight: 500;
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 14px;
+}
+.logo .nav-contact i{
+    color: #1BEEBB;
+    margin-right: 5px;
+}
+.logo .nav-contact .contact{
+    font-size: 16px;
+    font-family: work sans;
+    font-weight: 500;
+    color: #131732;
+    padding: 10px 18px;
+    border-radius: 50px;
+    background: #1BEEBB;
+    text-decoration: none;
+}
+
+.contact{
+    background: #3374ff;
+    padding-top: 70px;
+    padding-bottom: 212px;
+    /* background-image: url("/images/mumber-background.png");
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+.contact .container .col-md-4{
+    margin-left: 40px;
+}
+.contact .contact-info h1{
+    font-size: 52px;
+    font-family: work sans;
+    font-weight: 600;
+    color: #ffffff;
+}
+.contact .contact-info span{
+    color: #1BEEBB;
+}
+.contact .contact-info p{
+    font-size: 18px;
+    font-family: work sans;
+    font-weight: 400;
+    color: #ffffff;
+}
+.contact .contact-address{
+    margin-top: 140px;
+    
+}
+.contact .contact-address .address{
+    margin-bottom: 10px;
+}
+.contact  .contact-address .address i{
+    color: #1BEEBB;
+    font-size: 16px;
+    margin-right: 43px;
+}
+.contact .contact-address span{
+    font-size: 17px;
+    font-weight: 400;
+    font-family: work sans;
+    color: #ffffff;
+}
+.contact .form-one{
+    width: 570px;
+}
+.contact .contact-form{
+    width: 570px;
+    height: 530px;
+    background: #ffffff;
+    padding: 32px;
+    border-radius: 30px;
+    position: absolute;
+    top: 150px;
+    right: 158px;
+}
+.contact .form-one .contact-form label{
+    font-size: 14px;
+    font-family: work sans;
+    font-weight: 400;
+    color: #131732;
+    margin-bottom: 7px;
+}
+.contact .contact-form .user{
+    position: relative;
+    top: 45px;
+    left: -69px;
+    color: #3374ff;
+}
+.contact .contact-form .mail{
+    position: relative;
+    top: 46px;
+    left: -22px;
+    color: #3374ff;
+}
+.contact .contact-form input{
+    width: 100%;
+    padding-left: 34px;
+    margin-bottom: 30px;
+    background: #F3F3F3;
+    border: none;
+    border-radius: 12px;
+    height: 54px;
+}
+.contact .contact-form textarea{
+    width: 100%;
+    background: #F3F3F3;
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
+.contact .contact-form a{
+    background: #1BEEBB;
+    color: #131732;
+    padding: 16px 32px;
+    text-decoration: none;
+    border-radius: 50px;
+    float: right;
+}
+footer{
+    background: #272C50;
+}
+footer .mumber{
+    margin: 30px;
+    font-size: 14px;
+    font-family: work sans;
+    font-weight: 400;
+    color: #ffffff;
+}
+footer .icon{
+    color: #8790ae;
+    margin-top: 30px;
+}
+footer .icon i{
+    margin-right: 20px;
+}
